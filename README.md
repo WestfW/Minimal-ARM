@@ -10,3 +10,15 @@ Can't we just spend a couple minutes downloading a command-line assembler, so we
 This repository is inspired, and largely extracted, from several discussions on the EEVBlog Forums:
 - [One Dollar One Minute ARM Development](http://www.eevblog.com/forum/microcontrollers/one-dollar-one-minute-arm-development/)
 - [STM32: Ghetto Style](http://www.eevblog.com/forum/microcontrollers/stm32-ghetto-style/)
+
+## Directory Orginzation
+- **originals/**  
+ Some of the files in this repository are extracted and/or modified versions of files from vendor-provided packages.  The original versions of the indivudal files are stored here.
+- **inc/**  
+ Contains the "included" files (macro and symbol definitions) that have been created.  In general, a ".h" file is a C header file containing C-style macros and such, and a .asmh file is assembler macros and defintions.
+- **macbin/ winbin/ linbin/**  
+tool binaries for mac, windows. and linux.
+- **Blink/**  
+Blinking an LED on a GPIO port.
+- **Hello/**  
+Sending "Hello World" to the USART on STM32f.
