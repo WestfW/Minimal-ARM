@@ -1,6 +1,16 @@
+Some files in this repository are NOT original work, and are subject
+to their origial license agreements, as marked in the individual
+files.  Other files are trivial examples, and are marked as being
+released to the public domain ("Unlicense".)  For all other files, and
+the project in general, the intent is to provide example code that may
+be used for any purpose, and does not carry any "viral"
+characteristics beyond a request to retain a record of the original
+author's efforts and copyright, as dictated by the "MIT License":
+
+
 The MIT License (MIT)
 
-Copyright (c) 2014 WestfW
+Copyright (c) 2014 WestfW (Bill Westfield)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
