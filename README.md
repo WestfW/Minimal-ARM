@@ -10,6 +10,8 @@ Can't we just spend a couple minutes downloading a command-line assembler, so we
 This repository is inspired, and largely extracted, from several discussions on the EEVBlog Forums:
 - [One Dollar One Minute ARM Development](http://www.eevblog.com/forum/microcontrollers/one-dollar-one-minute-arm-development/)
 - [STM32: Ghetto Style](http://www.eevblog.com/forum/microcontrollers/stm32-ghetto-style/)
+ 
+There is some [content in the wiki](https://github.com/WestfW/Minimal-ARM/wiki) as well.
 
 ## Directory Orginzation
 - **originals/**  
