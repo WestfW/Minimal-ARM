@@ -10,6 +10,8 @@ Can't we just spend a couple minutes downloading a command-line assembler, so we
 This repository is inspired, and largely extracted, from several discussions on the EEVBlog Forums:
 - [One Dollar One Minute ARM Development](http://www.eevblog.com/forum/microcontrollers/one-dollar-one-minute-arm-development/)
 - [STM32: Ghetto Style](http://www.eevblog.com/forum/microcontrollers/stm32-ghetto-style/)
+ 
+There is some [content in the wiki](https://github.com/WestfW/Minimal-ARM/wiki) as well.
 
 ## Directory Orginzation
 - **originals/**  
@@ -22,3 +24,5 @@ tool binaries for mac, windows. and linux.
 Blinking an LED on a GPIO port.
 - **Hello/**  
 Sending "Hello World" to the USART on STM32f.
+- **Atmel/**  
+Provide a minimum Blink example for Atmel SAMD10 Xplained Mini, as an Atmel Studio project.
