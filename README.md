@@ -24,5 +24,5 @@ tool binaries for mac, windows. and linux.
 Blinking an LED on a GPIO port.
 - **Hello/**  
 Sending "Hello World" to the USART on STM32f.
-- **Atmel/**
+- **Atmel/**  
 Provide a minimum Blink example for Atmel SAMD10 Xplained Mini, as an Atmel Studio project.
