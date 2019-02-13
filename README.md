@@ -26,3 +26,5 @@ Blinking an LED on a GPIO port.
 Sending "Hello World" to the USART on STM32f.
 - **Atmel/**  
 Provide a minimum Blink example for Atmel SAMD10 Xplained Mini, as an Atmel Studio project.
+
+-test-
